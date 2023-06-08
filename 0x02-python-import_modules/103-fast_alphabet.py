@@ -1,2 +1,3 @@
+#!/usr/bin/python3
 import string
-exec(f'print({string.ascii_uppercase!r})')
+print(string.ascii_uppercase)
