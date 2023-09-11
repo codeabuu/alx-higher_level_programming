@@ -12,5 +12,5 @@ if (!isNaN(intValue)) {
   console.log(`My number: ${intValue}`);
 } else {
   // Print "Not a number" if the conversion failed
-  console.log("Not a number");
+  console.log('Not a number');
 }
