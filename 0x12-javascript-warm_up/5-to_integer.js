@@ -14,4 +14,3 @@ if (!isNaN(intValue)) {
   // Print "Not a number" if the conversion failed
   console.log("Not a number");
 }
-
