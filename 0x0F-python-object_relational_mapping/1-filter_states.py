@@ -1,7 +1,17 @@
 #!/usr/bin/python3
+"""
+This script lists all states with
+a `name` starting with the letter `N`
+from the database `hbtn_0e_0_usa`.
+"""
 
 import MySQLdb
 from sys import argv
+
+"""
+Access to the database and get the states
+from the database.
+"""
 
 if __name__ == "__main__":
     conn = MySQLdb.connect(
