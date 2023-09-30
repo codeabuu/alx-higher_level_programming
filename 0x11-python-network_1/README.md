@@ -1,9 +1,4 @@
 
-You have a captain's log due before 2023-10-01 (in 2 days)! Log it now!
-We're moving to Discord!
-In a few days, we will be leaving Slack in favor of Discord 🎉
-Click here for more information
-You just released the advanced tasks of this project. Have fun!
 0x11. Python - Network #1
 Python
 Scripting
