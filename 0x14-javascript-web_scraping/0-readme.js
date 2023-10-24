@@ -3,7 +3,7 @@
 const fs = require('fs');
 const filename = process.argv[2];
 
-function handleFileRead(error, content) {
+function handleFileRead (error, content) {
   if (error) {
     console.error(error); // Log the error message to the error stream
   } else {
